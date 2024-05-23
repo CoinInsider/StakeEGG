@@ -1,1 +1,1 @@
-# StakeEGG
+# StakeEGG GM
